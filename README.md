@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+A little about me
 
 - 🔭 I’m currently working as the lead for software development team at Center for Genomic Medicine, King Faisal Specialist Hospital & Research Center
 - :scroll: I'm a CPHIMS, CKAD and MCP. I've Masters in Software Engineering and Bioinformatics.
