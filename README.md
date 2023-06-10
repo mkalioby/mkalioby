@@ -20,4 +20,4 @@ A little about me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkalioby&show_icons=true&locale=en&theme=transparent" alt="mkalioby" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkalioby&theme=transparent" alt="mkalioby" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mkalioby%20&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
