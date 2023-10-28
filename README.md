@@ -6,6 +6,7 @@ A little about me
 - :scroll: I'm a CPHIMS, CKAD and MCP. I've Masters in Software Engineering and Bioinformatics.
 - I was a member of Content Comittee of djangoCon Europe 2022 in Porto. 
 - I'm main contributor for django-mfa2 (which has more than 150 :star2: and downloaded more than 130k times) and django-passkeys which provides easy-to-integrate passkey interface for django authentication.
+- Speaker at DjangoCon US 2023.
 - 💬 Ask me about Python, Django and Linux in general
 - 📫 How to reach me: mkalioby@mkalioby.com
 <h3 align="left">Connect with me:</h3>
