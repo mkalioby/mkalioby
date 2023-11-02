@@ -5,7 +5,7 @@ A little about me
 - 🔭 I’m currently working as the lead for software development team at Center for Genomic Medicine, King Faisal Specialist Hospital & Research Center
 - :scroll: I'm a CPHIMS, CKAD and MCP. I've Masters in Software Engineering and Bioinformatics.
 - I was a member of Content Comittee of djangoCon Europe 2022 in Porto. 
-- I'm main contributor for django-mfa2 (which has more than 150 :star2: and downloaded more than 130k times) and django-passkeys which provides easy-to-integrate passkey interface for django authentication.
+- I'm main contributor for django-mfa2 (which has more than 200 :star2: and downloaded more than 175k times) and django-passkeys which provides easy-to-integrate passkey interface for django authentication which is stared 100 times in 6 months
 - Speaker at DjangoCon US 2023.
 - 💬 Ask me about Python, Django and Linux in general
 - 📫 How to reach me: mkalioby@mkalioby.com
