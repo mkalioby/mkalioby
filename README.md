@@ -9,6 +9,7 @@ A little about me
 - Python Software Foundation Contributing Member.
 - Speaker at DjangoCon US 2023.
 - Django Software Foundation Member.
+- DjangoCon US 2024 Community Reviewer.
 - 💬 Ask me about Python, Django and Linux in general
 - 📫 How to reach me: mkalioby@mkalioby.com
 <h3 align="left">Connect with me:</h3>
