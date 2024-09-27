@@ -7,7 +7,7 @@ A little about me
 - I was a member of Content Comittee of djangoCon Europe 2022 in Porto. 
 - I'm main contributor for django-mfa2 (which has more than 250 :star2: and downloaded more than 200k times) and django-passkeys which provides easy-to-integrate passkey interface for django authentication which is stared 190 times in its first year)
 - Python Software Foundation Contributing Member.
-- Speaker at DjangoCon US 2023.
+- [Speaker at DjangoCon US 2023](https://2023.djangocon.us/talks/passkeys-on-django/).
 - DSF Member.
 - DjangoCon US 2024 Talk Reviewer.
 - 💬 Ask me about Python, Django and Linux in general
